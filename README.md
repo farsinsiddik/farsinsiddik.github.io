@@ -1,1 +1,0 @@
-# farsinsiddik.github.io
