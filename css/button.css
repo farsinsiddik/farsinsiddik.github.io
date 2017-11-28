@@ -1,7 +1,7 @@
 .button {
-	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
-	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-moz-box-shadow:0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:0px 1px 0px 0px #bbdaf7;
+	box-shadow:0px 1px 0px 0px #bbdaf7;
 	background-color:transparent;
 	-webkit-border-top-left-radius:0px;
 	-moz-border-radius-topleft:0px;
