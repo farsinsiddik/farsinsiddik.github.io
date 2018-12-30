@@ -5,8 +5,8 @@ body{
 }
 .share{
   position: relative;
-  top: 327px;
-  left: 251px;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%,-50%) rotate(-45deg);
   width: 100px;
   height: 100px;
