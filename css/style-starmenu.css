@@ -19,7 +19,7 @@ body{
   height: 100%;
 }
 .share ul li{
-  position: relative;
+  position: absolute;
   top: 327px;
   left: 251px;
   list-style: none;
@@ -32,7 +32,7 @@ body{
   border-radius: 10px;
 }
 .share ul li a{
-  position: relative;
+  position: absolute;
   top: 327px;
   left: 251px;
   width: 100%;
