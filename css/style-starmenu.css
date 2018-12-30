@@ -96,8 +96,8 @@ body{
 }
 .toggle{
   position: absolute;
-  top: 327;
-  left: 251;
+  top: 327px;
+  left: 251px;
   width: 100%;
   height: 100%;
   background: #e91e63;
@@ -110,8 +110,8 @@ body{
   content: '\f1e0';
   font-family: fontAwesome;
   position:absolute;
-  top: 327;
-  left: 251;
+  top: 327px;
+  left: 251px;
   width: 100%;
   height: 100%;
   text-align: center;
@@ -124,8 +124,8 @@ body{
   content: '\f00d';
   font-family: fontAwesome;
   position:absolute;
-  top: 327;
-  left: 251;
+  top: 327px;
+  left: 251px;
   width: 100%;
   height: 100%;
   text-align: center;
