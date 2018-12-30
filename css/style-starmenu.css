@@ -4,7 +4,7 @@ body{
   background: #003040;
 }
 .share{
-  position: relative;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%) rotate(-45deg);
@@ -12,7 +12,7 @@ body{
   height: 100px;
 }
 .share ul{
-  position: relative;
+  position: absolute;
   margin: 0;
   padding: 0;
   width: 100%;
